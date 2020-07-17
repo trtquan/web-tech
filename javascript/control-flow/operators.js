@@ -10,7 +10,7 @@
   // set default destructuring value 
   const { prop = 3, prop2, prop3 } = foo;
 
-// Arithmetic operators 
+// Arithmetic operators  
   // + attempts to convert the operand to a number, if it is not already.
   const number3 = +'3';
 

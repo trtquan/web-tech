@@ -17,7 +17,7 @@
 // Comparison operators 
   // === don't attempt to convert the operands to compatible types before checking equality
   // false && anything is short-circuit evaluated to false.
-  // true || anything is short-circuit evaluated to true.
+  // true || anything is short-circuit evaluated to true. 
 
   // ternary operatorSection  
   number3 > 3 ? 'greater'

@@ -35,7 +35,7 @@
   console.log(`PROP1 exited in foo ${'prop1' in foo}`); 
 
   // The instanceof operator returns  true if the specified object is of the specified  object type. 
-  const theDay = new Date(1995, 12, 17);
+  const theDay = new Date(1995, 12, 17); 
 
   console.log(`the Day is instanceof Date object ${theDay instanceof Date}`);
   

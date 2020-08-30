@@ -19,7 +19,7 @@
   // false && anything is short-circuit evaluated to false.
   // true || anything is short-circuit evaluated to true.
 
-  // ternary operatorSection
+  // ternary operatorSection 
   number3 > 3 ? 'greater'
     : number3 < 3 ? 'lower'
       : 'equal';

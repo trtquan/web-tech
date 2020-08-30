@@ -24,7 +24,7 @@
     : number3 < 3 ? 'lower'
       : 'equal';
 
-// Unary operatorsSection
+// Unary  operatorsSection
   typeof number3;
   // void can be used to force the function keyword to be treated
   // as an expression instead of a declaration

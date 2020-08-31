@@ -2,7 +2,7 @@
   // right operand (=) 
   const a = 4 
 
-// Destructuring
+// Destructuring 
   // that makes it possible to extract data from arrays or objects using a syntax that mirrors 
   // the construction of array and object literals
   const foo = { prop1: 1, prop2: 2, prop3: 3 };

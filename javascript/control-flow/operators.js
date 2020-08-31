@@ -1,6 +1,6 @@
 // An assignment operator assigns a value to its left operand based on the value of its
-  // right operand (=)
-  const a = 4
+  // right operand (=) 
+  const a = 4 
 
 // Destructuring
   // that makes it possible to extract data from arrays or objects using a syntax that mirrors 

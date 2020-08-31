@@ -7,7 +7,7 @@
   // the construction of array and object literals
   const foo = { prop1: 1, prop2: 2, prop3: 3 };
 
-  // set default value
+  // set default destructuring value
   const { prop = 3, prop2, prop3 } = foo;
 
 // Arithmetic operators

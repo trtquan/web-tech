@@ -8,7 +8,7 @@ foo = true; // foo is now a boolean
 // Six data types that are primitives: primitive just mean that these are not object
 typeof 'John';             // Returns "string"
 typeof 3.14;               // Returns "number" number always have decimal
-typeof true;               // Returns "boolean"
+typeof true;               // Returns  "boolean"
 typeof false;              // Returns "boolean"
 typeof x;                  // Returns "undefined" (if x has no value)
 

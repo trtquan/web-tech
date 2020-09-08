@@ -21,3 +21,9 @@ typeof function myFunc() {};      // Returns "function"
 
 // An alternative method of retrieving a number from a string with + opreator
 (+'1.2');
+
+
+// Undefined 
+    // the special value thay JS will set for the variable hasn't been set value
+    // undefined isn't event an object
+

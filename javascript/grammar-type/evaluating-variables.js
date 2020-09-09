@@ -1,4 +1,4 @@
-// The undifined value behaves as false when used in a boolean context
+// The undefined value behaves as false when used in a boolean context
 let a;
 if (a === undefined) {
   console.log('a is undefined!');

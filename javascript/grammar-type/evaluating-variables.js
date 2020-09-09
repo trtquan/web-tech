@@ -8,7 +8,7 @@ if (a === undefined) {
 // Undefined convert to  NaN when used in numeric context
 console.log(a + 2);
 
-// Null value behaves to 0 when used in numeric context
+// Null   value behaves to 0 when used in numeric context
 const n = null;
 console.log(n + 2);
 

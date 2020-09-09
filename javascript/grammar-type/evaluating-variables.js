@@ -5,7 +5,7 @@ if (a === undefined) {
 } else {
   console.log(' a is defined!');
 }
-// Undefined convert to NaN when used in numeric context
+// Undefined convert to  NaN when used in numeric context
 console.log(a + 2);
 
 // Null value behaves to 0 when used in numeric context

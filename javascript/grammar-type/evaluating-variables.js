@@ -20,5 +20,5 @@ console.log(n + 2);
  * there's an outer enviroment that's created, phase
  * recognizes where you're created variables and where you're created functions
  * and setup memory space for variables and function "Hoisting"
- * the execution phase, all variables in JS are initially set to undefined
+ * the execution phase, all variables in JS are initially set to undefined set
  * */

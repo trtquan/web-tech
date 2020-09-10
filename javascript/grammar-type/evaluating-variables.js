@@ -17,7 +17,7 @@ console.log(n + 2);
 
 // Hoisting execution context is created in 2 phases 
 /** first phase is called the creation phase in that phase we have the global object
- * there's an outer enviroment that's created,
+ * there's an outer enviroment that's created, phase
  * recognizes where you're created variables and where you're created functions
  * and setup memory space for variables and function "Hoisting"
  * the execution phase, all variables in JS are initially set to undefined

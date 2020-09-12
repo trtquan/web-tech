@@ -3,7 +3,7 @@
     // this keyword
       // In the global execution context (outside of any function),
       // this refers to the global object whether in strict mode or not.
-      console.log(this === window);
+      console.log(this === window); 
 
       // In the function context
       function thisInStrictMode() {

@@ -8,7 +8,7 @@
       // In the function context
       function thisInStrictMode() {
         'use strict'; // see strict mode
-        return this;
+        return this; 
       }
 
       function thisWithoutStrictMode() {

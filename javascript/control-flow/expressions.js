@@ -15,7 +15,7 @@
         return this;
       }
       
-      console.log(`this will default to undefined in strict mode ${thisInStrictMode === window}`);
+      console.log(`this will default to undefined in strict mode ${thisInStrictMode === window}`); 
       console.log(`this will default to to the global object ${thisWithoutStrictMode === window}`);
       
       // Where a function uses the this keyword in its body,

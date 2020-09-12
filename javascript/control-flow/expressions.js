@@ -29,7 +29,7 @@
         // Prototype chain 
           // make all this inheritance possible
 
-          // when we try to access a certain method, or perperty on an object:
+          // when we try to access a certain method, or property on an object:
             // JS will try to find that in the object it self and if it cannot found,
             // it will look in the object's prototype ob it's parent so it moves up in the
             // prototype chain, this continues until no more prototype to look at, which is null

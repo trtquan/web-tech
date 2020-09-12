@@ -26,7 +26,7 @@
           // but where this occurs in the original function, 
           // in the new function it is permanently bound to the first argument of bind
 
-        // Prototype chain
+        // Prototype chain 
           // make all this inheritance possible
 
           // when we try to access a certain method, or perperty on an object:

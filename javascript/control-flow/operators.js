@@ -14,7 +14,7 @@
   // + attempts to convert the operand to a number, if it is not already.
   const number3 = +'3';
 
-// Comparison operators
+// Comparison operators 
   // === don't attempt to convert the operands to compatible types before checking equality
   // false && anything is short-circuit evaluated to false.
   // true || anything is short-circuit evaluated to true.

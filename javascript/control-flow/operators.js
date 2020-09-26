@@ -26,7 +26,7 @@
 
 // Unary  operatorsSection
   typeof number3;
-  // void can be used to force the function keyword to be treated
+  // void can be used to force the function keyword to be treated 
   // as an expression instead of a declaration
 
 // Relational operatorsSection
